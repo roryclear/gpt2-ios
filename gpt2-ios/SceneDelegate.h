@@ -1,0 +1,15 @@
+//
+//  SceneDelegate.h
+//  gpt2-ios
+//
+//  Created by Rory Clear on 23/10/2024.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface SceneDelegate : UIResponder <UIWindowSceneDelegate>
+
+@property (strong, nonatomic) UIWindow * window;
+
+@end
+
